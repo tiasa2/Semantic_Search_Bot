@@ -1,0 +1,68 @@
+{"intents": [
+        {"tag": "q1",
+         "patterns": ["What is the difference between IT, CCE and CSE?"],
+         "responses": ["All the three branches are computer science related and there is no much difference when it comes to the basics. All the three branches students will be learning JAVA, Data Structures and algorithms in their 2nd year. The main difference comes in 3rd Year. CSE focuses on subjects like Formal language and automata theory, database systems and microprocessors. CCE mainly focuses on advanced subjects like advanced programming technologies (python and ruby), embedded systems, and network technologies. IT too is similar to CCE just that it has more of application oriented subjects."],
+         "context_set": ""
+        },
+        {"tag": "q2",
+         "patterns": ["How is the computer and communication engineering branch at Manipal?"],
+         "responses": ["The CCE branch at Manipal comes under the ICT department. It is a really good branch with faculty well versed in advanced domains. This branch focuses more on communication and networking subjects."],
+         "context_set": ""
+        },
+        {"tag": "q3",
+         "patterns": ["How is the placement for CCE?"],
+         "responses": ["Placement is good. All eligible students are getting placed in good companies"],
+         "context_set": ""
+        },
+        {"tag": "q4",
+         "patterns": ["Can passed out students go for Master’s program outside country?"],
+         "responses": ["Yes, definitely. Students will have plethora of options to study masters in abroad."],
+         "context_set": ""
+        },
+        {"tag": "q5",
+         "patterns": ["Whether separate paper exists for GATE exam or they need to write the paper of Computer Science?"],
+         "responses": ["As of now there is no separate paper for CCE in GATE exam, Students will have to write the paper of computer science. But for a student who is pursuing a Computer Science related degree, learning 1-2 courses more shouldn’t pose a problem. Syllabus: (http://www.gate.iitg.ac.in)"],
+         "context_set": ""
+        },
+        {"tag": "q6",
+         "patterns": ["What is the prospect of becoming entrepreneur after completing the course?"],
+         "responses": ["Yes, one can become an entrepreneur if he/she wishes. Curriculum provides open electives and program electives as a platform to innovate the ideas and Incubation Center of MAHE nourishes the innovative ideas by supporting to start the company. "],
+         "context_set": ""
+        },
+        {"tag": "q7",
+         "patterns": ["What is the average package and highest package?"],
+         "responses": ["Average Package: 7-7.5 Lakhs. Highest Package: 39.6 Lakhs (Microsoft)"],
+         "context_set": ""
+        },
+        {"tag": "q8",
+         "patterns": ["Whether the companies which are coming for CSE are coming for CCE?"],
+         "responses": ["Yes, all the companies that come for CSE recruitments also come to CCE."],
+         "context_set": ""
+        },
+        {"tag": "q9",
+         "patterns": ["What are different specializations available in CCE?"],
+         "responses": ["Advanced Network Systems(Mobile computing), Big Data Analytics, Machine learning, Artificial intelligence, Soft Computing, Computer Vision and many more."],
+         "context_set": ""
+        },
+        {"tag": "q10",
+         "patterns": ["How is the practical / Project exposure in CCE?"],
+         "responses": ["The branch provides a lot of options for projects in regular and specialized domains. The branch gives more importance to practical approach and projects. Most of the faculty have good publications, patents and are currently working on emerging technologies, so working under them on research is always  a good exposure"],
+         "context_set": ""
+        },
+        {"tag": "q11",
+         "patterns": ["Is CCE course AICTE approved?"],
+         "responses": ["Yes it is AICTE approved."],
+         "context_set": ""
+        },
+        {"tag": "q12",
+         "patterns": ["What is the ratio of girls and boys in the class?"],
+         "responses": ["As of now majority of the branch is of boys, but the number of girls are not less, there’s nearly a 3:2 ratio."],
+         "context_set": ""
+        },
+        {"tag": "q13",
+         "patterns": ["What is the scope in government sector?"],
+         "responses": ["CCE students get equal opportunities in government sector."],
+         "context_set": ""
+        }
+    ]
+}
